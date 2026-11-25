@@ -194,8 +194,4 @@ export const AdminUsersComponent = ({ status }) => {
 
 
     </div>)
-
-
-
-
 }
